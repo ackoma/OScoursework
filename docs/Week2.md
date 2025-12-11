@@ -145,7 +145,94 @@ Reduce attack surface by securing all network connections.
 
 ------------------------------------------------------------------------
 
+**Threat Model**
 
+##
 
+Threat (1)
 
+Attackers commonly scan the internet looking for SSH servers and try to break in using brute-force password attacks. Even if the server is not exposed publicly, weak passwords or default settings increase risk.
 
+How the Attack Could Happen
+
+Weak or reused passwords
+
+SSH root login allowed
+
+Firewall not enabled
+
+SSH running on default port (22) makes detection easier
+
+Impact
+
+Full server compromise
+
+Loss of confidential data
+
+Installation of backdoors or malware
+
+Mitigation Strategies
+
+Disable root login in /etc/ssh/sshd_config
+
+Enforce strong passwords
+
+(Optional) Change SSH port to reduce scanning attempts
+
+Enable UFW firewall with only SSH allowed
+
+Use key-based authentication for stronger protection
+
+##
+
+Threat (2)
+
+If the firewall is not set correctly, services may be open that should not be accessible. This increases attack surface and can expose internal services to unauthorized users.
+
+How the Attack Could Happen
+
+UFW disabled or misconfigured
+
+Multiple open ports visible on the network
+
+Unused services like FTP, SMB, or web servers left running
+
+Impact
+
+Remote exploitation of vulnerable services
+
+Unauthorized access to internal files
+
+DoS attacks if public services are exposed
+
+Mitigation Strategies
+
+Enable UFW and default deny incoming traffic
+
+Allow only required ports (e.g., SSH)
+
+Check open ports regularly using: command ( ss -tuln ).
+
+##
+
+threat (3)
+
+If the server does not receive security updates, it becomes vulnerable to known exploits. Attackers often look for outdated SSH versions, kernel vulnerabilities, or unsafe packages.
+
+How the Attack Could Happen
+
+Disabled or incorrect update settings
+
+Long periods without manual patching
+
+New vulnerabilities published while server is unpatched
+
+Impact
+
+Remote code execution
+
+Privilege escalation
+
+Loss of data integrity
+
+Malware installation
