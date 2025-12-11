@@ -97,4 +97,36 @@ Adapter 2 (Host-Only) ssh -
 <img width="940" height="575" alt="image" src="https://github.com/user-attachments/assets/80a779e3-4628-4edc-8f13-628430e20212" />
 
 ##
-Server network output 
+**server network output**
+
+uname is a system information command.
+It tells you what kernel, architecture, and system type your Ubuntu Server is running: 
+
+<img width="662" height="71" alt="Screenshot 2025-12-11 193541" src="https://github.com/user-attachments/assets/2a6b2da2-2b3d-4c16-afe3-d38bf8aaeada" />
+
+##
+free is a memory reporting command.
+It shows how much RAM your system has, how much is used, and how much is free:
+
+<img width="658" height="87" alt="Screenshot 2025-12-11 193602" src="https://github.com/user-attachments/assets/edec6122-780f-4bb1-aa9f-6da7c3342767" />
+
+##
+df -h shows how much disk space your system has:
+
+<img width="660" height="115" alt="Screenshot 2025-12-11 193719" src="https://github.com/user-attachments/assets/2fc513e2-97ff-4295-aca9-f2306b987497" />
+
+##
+
+ip addr (or full command: ip address show) displays all network interfaces on your system and their IP addresses:
+
+<img width="820" height="242" alt="Screenshot 2025-12-11 193833" src="https://github.com/user-attachments/assets/7aed9586-3960-4e6c-b39b-c4aab1455137" />
+
+##
+lsb_release -a shows what Linux distribution you are running:
+
+
+<img width="363" height="32" alt="Screenshot 2025-12-11 193955" src="https://github.com/user-attachments/assets/045e21c4-bb4a-4dae-adac-b157dcfd4e53" />
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
