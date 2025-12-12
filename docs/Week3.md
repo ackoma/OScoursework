@@ -1,5 +1,14 @@
 **Application Selection for Performance Testing**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The focus of Week 3 was to select appropriate benchmarking applications and develop a full performance testing methodology. This forms the foundation for practical testing in later weeks.
+
+I evaluated different types of workloads (CPU, memory, disk I/O, network, and server-based) to ensure broad performance coverage.
+
+The methodology outlines how performance testing will be conducted on the Ubuntu Server VM. The approach focuses on evaluating CPU, memory, disk I/O, network throughput, and server performance using selected benchmarking tools.
+
+Testing will be performed in a controlled VirtualBox environment to ensure consistency and repeatability.
+
+##
  
  Application Selection Matrix(before test): 
 
@@ -49,6 +58,18 @@ Fio version:
 
  ##
 
+How the testing will be done 
+this is each workload test has a step-by-step plan:
+
+CPU Test: Run stress-ng for 60 seconds to saturate CPU cores
+
+Memory Test: Allocate up to 80% RAM using stress-ng
+
+Disk Test: Run fio sequential and random workloads
+
+Network Test: Using iperf3 server/client setup
+
+Server Test: Run ApacheBench against nginx hosting a static webpage
 
 
 
