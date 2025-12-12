@@ -119,7 +119,8 @@ df -h shows how much disk space your system has:
 
 ip addr (or full command: ip address show) displays all network interfaces on your system and their IP addresses:
 
-<img width="820" height="242" alt="Screenshot 2025-12-11 193833" src="https://github.com/user-attachments/assets/7aed9586-3960-4e6c-b39b-c4aab1455137" />
+<img width="581" height="250" alt="image" src="https://github.com/user-attachments/assets/2a18c83a-5966-4067-b24e-3687e598c245" />
+
 
 ##
 lsb_release -a shows what Linux distribution you are running:
