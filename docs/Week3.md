@@ -20,3 +20,35 @@ installs :
 sudo apt install -y stress-ng fio iperf3 nginx
 
 
+<img width="794" height="618" alt="image" src="https://github.com/user-attachments/assets/d626397f-a274-42d5-b690-70f92c056487" />
+
+All is installed and updated !
+##
+Stress version : 
+
+<img width="819" height="47" alt="image" src="https://github.com/user-attachments/assets/f9dc3387-b7f3-4941-80b0-049888337a5c" />
+
+##
+
+Fio version:
+
+<img width="466" height="47" alt="image" 
+ src="https://github.com/user-attachments/assets/10eb5074-be92-4be7-acef-60a8efc93e01" />
+
+ ##
+
+ Iperf3 version: 
+
+ <img width="843" height="101" alt="image" src="https://github.com/user-attachments/assets/1d3a5564-b0bd-4b9c-ba1d-3581e3210159" />
+
+ ##
+
+ nginx version: 
+
+ <img width="395" height="49" alt="image" src="https://github.com/user-attachments/assets/8cb3ecee-e677-40ec-9089-6a5a8c712d03" />
+
+ ##
+
+
+
+
