@@ -14,7 +14,7 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 
 
-### [Week 1 – System Planning & Architecture](./Week-01-System-Planning)
+### ▶️ [Week 1 – System Planning & Architecture](https://github.com/ackoma/OScoursework/blob/main/docs/Week1.md)
 - System architecture diagram
 - Distribution selection justification
 - Workstation selection rationale
