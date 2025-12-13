@@ -90,7 +90,7 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 ---
 
 **Name:** Aaron Ackom 
-**Module:** opareting system
+**Module:** Operating Systems 
 **Institution:** roehampton university 
 
 
