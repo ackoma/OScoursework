@@ -89,15 +89,6 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 ---
 
-## Key Learning Outcomes
-- Secure Linux server administration via CLI
-- Defence-in-depth security implementation
-- Performance testing and bottleneck analysis
-- Automation of security verification and monitoring
-- Professional documentation and evidence collection
-
----
-
 **Name:** Aaron Ackom 
 **Module:** opareting system
 **Institution:** roehampton university 
