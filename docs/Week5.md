@@ -96,4 +96,20 @@ Security configuration is now verifiable through automation, reducing reliance o
 
 ##
 
+A remote monitoring script (monitor-server.sh) i created on the workstation to collect performance metrics from the server over SSH.
+
+Network configuration
+
+The script demonstrates secure remote administration and provides real-time insight into system health without requiring direct console access.
+
+Outcome:
+The system can now be monitored remotely using automated tooling, supporting proactive administration and performance awareness.
+
+
+<img width="382" height="594" alt="image" src="https://github.com/user-attachments/assets/d083609b-8c0c-49d5-a0cc-12f948d4779d" />
+
+
+##
+
+
 
