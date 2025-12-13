@@ -75,3 +75,23 @@ fail2ban-client status sshd :
 the final outcome shows the server now actively detects and mitigates unauthorized login attempts, providing dynamic protection against brute-force attacks.
 
 ##
+
+Security Baseline Verification Script: 
+
+
+<img width="458" height="526" alt="Screenshot 2025-12-13 131126" src="https://github.com/user-attachments/assets/63f4671c-6887-4d21-8709-304479f7534e" />
+
+
+4th deliverable :
+
+
+<img width="559" height="445" alt="image" src="https://github.com/user-attachments/assets/dfbf62b2-52d7-4d26-b174-b84b56429556" />
+
+
+This approach ensures repeatability and allows future audits to confirm that security controls remain intact after updates or configuration changes.
+
+Outcome:
+Security configuration is now verifiable through automation, reducing reliance on manual checks.
+4th complete.
+
+##
