@@ -48,8 +48,30 @@ checking the 2nd deliverable -
 
 ##
 
+Fail2ban - Fail2Ban is an intrusion‑prevention tool designed to protect servers from brute‑force attacks by automatically banning suspicious IP addresses:
 
 
 
+<img width="817" height="361" alt="Screenshot 2025-12-13 124838" src="https://github.com/user-attachments/assets/277ff82e-7993-40dc-b737-08a550009e27" />
+
+##
+
+configuration file (jail.local) was created to use the SSH jail with strict retry limits. The configuration limits login attempts and imposed temporary bans on repeated failures.
+
+command using - 
+
+fail2ban-client status
+fail2ban-client status sshd :
 
 
+
+<img width="499" height="107" alt="Screenshot 2025-12-13 125404" src="https://github.com/user-attachments/assets/45e4e9c6-4371-4bb8-bf80-d5f6ca4a53e1" />
+
+##
+
+
+<img width="544" height="178" alt="Screenshot 2025-12-13 125439" src="https://github.com/user-attachments/assets/fec46cff-f119-4cc8-9787-f3fc76b1b217" />
+
+the final outcome shows the server now actively detects and mitigates unauthorized login attempts, providing dynamic protection against brute-force attacks.
+
+##
