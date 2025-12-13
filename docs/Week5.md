@@ -8,4 +8,18 @@ By the end we want to see that the server had transitioned from a securely confi
 
 ##
 
+AppArmor as its default mandatory access control (MAC) framework -
+
+
+<img width="899" height="256" alt="image" src="https://github.com/user-attachments/assets/f8d1accd-af88-42e4-a681-16bf878f17ac" />
+
+
+To assess enforcement, the following command was executed:
+
+
+<img width="476" height="604" alt="Screenshot 2025-12-13 121018" src="https://github.com/user-attachments/assets/d9f5a0a5-c58c-4e40-9993-01451fe399cd" />
+
+
+
+##
 
