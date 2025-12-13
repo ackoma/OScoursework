@@ -27,11 +27,17 @@ Demonstrated secure remote administration by executing system management command
 
 ##
 
+PREPARATION (Before touching the server)
+- Your workstation IP address :
+
+
 <img width="644" height="372" alt="image" src="https://github.com/user-attachments/assets/efe0e54f-ca1b-45f6-8cbe-af8ce157c0a3" />
 
 
 ##
 
+UFW version number
+Confirms firewall utility is installed :
 
 <img width="703" height="96" alt="image" src="https://github.com/user-attachments/assets/78485537-0003-4bac-91eb-854ed57302cb" />
 
@@ -43,34 +49,42 @@ Generate SSH key:
 
 ##
 
+Apply firewall rules (server): 
 
 <img width="569" height="114" alt="Screenshot 2025-12-12 212157" src="https://github.com/user-attachments/assets/1efb00d2-fb87-4872-988a-f221e474765b" />
 
 
 #
 
+Apply firewall rules (server):
 
 <img width="626" height="156" alt="Screenshot 2025-12-12 212519" src="https://github.com/user-attachments/assets/65e5d77b-c50e-4091-a29c-52aea7f72202" />
 
 
 ##
 
+Create a Non-Root Administrative User:
 
 <img width="624" height="509" alt="Screenshot 2025-12-12 214254" src="https://github.com/user-attachments/assets/383046fc-ec66-4398-91e5-0f7781576a7c" />
 
 
 ##
 
+is used to grant administrative (sudo) privileges to the user adminuser:
 
 <img width="686" height="67" alt="Screenshot 2025-12-12 214528" src="https://github.com/user-attachments/assets/3e596e46-3785-4e7d-a611-9ca4ac2b94b8" />
 
 ##
+
+Confirms that the non-root administrative user exists
+Demonstrates user management and privilege separation: 
 
 <img width="701" height="78" alt="Screenshot 2025-12-12 214757" src="https://github.com/user-attachments/assets/5ce5a779-5cad-46e3-ac13-9e6237c5cae4" /> 
 
 
 ##
 
+SSH Hardening + Config File Before/After Evidence: 
 
 <img width="943" height="574" alt="Screenshot 2025-12-12 223631" src="https://github.com/user-attachments/assets/e563e5d9-2b33-4324-9345-9b7711f7e19b" />
 
