@@ -48,4 +48,51 @@ top -b -n1 | head -n 30 | tee ~/week6/baseline/top.txt
 
 <img width="685" height="525" alt="Screenshot 2025-12-13 140515" src="https://github.com/user-attachments/assets/33581948-4e09-49a2-813a-5f1178fa9e53" />
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Disk baeline
+
+<img width="1291" height="610" alt="image" src="https://github.com/user-attachments/assets/fec49e6f-1c93-4246-90f7-b5de6b675ddd" />
+
+------------------------------------------------------------------------------------------------------------
+
+**Load testing per application + capture metrics**
+
+##
+
+For each test, you will capture:
+
+
+CPU usage (top -b -n1 | head -n 20)
+
+
+<img width="638" height="169" alt="Screenshot 2025-12-13 142304" src="https://github.com/user-attachments/assets/3dff28f1-19df-4124-9253-4b301c106b01" />
+
+##
+
+Memory usage (free -h)
+
+
+<img width="658" height="99" alt="image" src="https://github.com/user-attachments/assets/e6c40928-dffc-4a77-8c47-81ddc1405c25" />
+
+##
+
+System latency(vmstat 1 5)
+
+
+<img width="764" height="163" alt="image" src="https://github.com/user-attachments/assets/ded04b8c-b009-4b88-a390-76c3f30275a1" />
+
+
+##
+
+
+Disk I/O (iostat -xz 1 3)
+
+
+<img width="1295" height="478" alt="image" src="https://github.com/user-attachments/assets/1eba9072-bf14-4511-84a1-cfd536725bd6" />
+
+##
+
+
+
+
