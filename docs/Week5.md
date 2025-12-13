@@ -111,5 +111,14 @@ The system can now be monitored remotely using automated tooling, supporting pro
 
 ##
 
+Key takeaways include:
+
+- Mandatory access control adds a critical layer beyond discretionary permissions.
+
+- Automation (updates, fail2ban, scripts) reduces human error.
+
+- Security controls must be auditable and demonstrable, not assumed.
+
+- Scripts are powerful tools for maintaining consistent security baselines.
 
 
