@@ -1,4 +1,7 @@
-# Linux Server Administration, Security & Performance Analysis
+**Name:** Aaron Ackom 
+**Module:** opareting system
+**Institution:** roehampton university 
+
 
 ## Module Overview
 This repository documents a seven-week practical project focused on Linux server administration using a dual-system architecture.  
@@ -14,7 +17,7 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 
 
-### ▶️ [Week 1 – System Planning & Architecture](https://github.com/ackoma/OScoursework/blob/main/docs/Week1.md)
+### [Week 1 – System Planning & Architecture](https://github.com/ackoma/OScoursework/blob/main/docs/Week1.md)
 - System architecture diagram
 - Distribution selection justification
 - Workstation selection rationale
@@ -23,7 +26,7 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 ---
 
-### [Week 2 – Baseline Security & System Hardening](./Week-02-Baseline-Security)
+### [Week 2 – Baseline Security & System Hardening](https://github.com/ackoma/OScoursework/blob/main/docs/Week2.md)
 - SSH configuration fundamentals
 - Firewall concepts and planning
 - User privilege analysis
@@ -31,14 +34,15 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 ---
 
-### [Week 3 – Application Selection & Performance Planning](./Week-03-Performance-Planning)
+
+### [Week 3 – Application Selection & Performance Planning](https://github.com/ackoma/OScoursework/blob/main/docs/Week3.md)
 - Application selection matrix
 - Workload classification (CPU, RAM, I/O, Network)
 - Performance testing methodology
 - Baseline measurement planning
 
 ---
-### [Week 4 – Initial Security Implementation](./Week-04-Security-Implementation)
+### [Week 4 – Initial Security Implementation](https://github.com/ackoma/OScoursework/blob/main/docs/Week4.md)
 - SSH key-based authentication
 - Firewall configuration (restricted SSH access)
 - User and privilege management
@@ -47,7 +51,8 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 ---
 
-### [Week 5 – Advanced Security & Monitoring Infrastructure](./Week-05-Advanced-Security-Monitoring)
+
+### [Week 5 – Advanced Security & Monitoring Infrastructure](https://github.com/ackoma/OScoursework/blob/main/docs/Week5.md)
 - AppArmor mandatory access control
 - Automatic security updates
 - Intrusion detection using fail2ban
@@ -55,8 +60,7 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 - Remote monitoring script
 
 ---
-
-### [Week 6 – Performance Evaluation & Optimisation](./Week-06-Performance-Evaluation)
+### [Week 6 – Performance Evaluation & Optimisation](https://github.com/ackoma/OScoursework/blob/main/docs/Week6.md)
 - Baseline vs load testing
 - CPU, memory, disk, network analysis
 - Latency and service response measurement
@@ -66,7 +70,7 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 ---
 
-### [Week 7 – Final Analysis & Reflection](./Week-07-Final-Analysis)
+###  [Week 7 – Final Analysis & Reflection](https://github.com/ackoma/OScoursework/blob/main/docs/Week7.md)
 - Comparative performance analysis
 - Security posture evaluation
 - Lessons learned and critical reflection
@@ -93,9 +97,11 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 - Professional documentation and evidence collection
 
 ---
-## Author
-**Name:** _Your Name Here_  
-**Module:** _Module Code / Name_  
-**Institution:** _University / College Name_  
+
+**Name:** Aaron Ackom 
+**Module:** opareting system
+**Institution:** roehampton university 
+
+
 
 
