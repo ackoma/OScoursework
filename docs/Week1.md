@@ -94,7 +94,8 @@ Adapter 1 (Nat) internet access -
 ##
 Adapter 2 (Host-Only) ssh - 
 
-<img width="940" height="575" alt="image" src="https://github.com/user-attachments/assets/80a779e3-4628-4edc-8f13-628430e20212" />
+<img width="779" height="480" alt="image" src="https://github.com/user-attachments/assets/b69f8add-ae89-46e7-81bf-617383470d2e" />
+
 
 ##
 **server network output**
