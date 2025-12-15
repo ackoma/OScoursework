@@ -3,7 +3,7 @@
 Introduction:
 
 This project focuses on developing practical skills in Linux system administration through the deployment and management of a dual-system virtualised environment. The assignment requires the installation, configuration, and documentation of two interconnected systems: a Linux Server (headless, command-line only) and a Workstation System used to administer the server remotely via SSH
-Throughout the seven-week project, the emphasis is placed not on advanced infrastructure design, but on building competence in operating system configuration, security hardening, network setup, and performance monitoring. 
+Throughout the seven-week project, the emphasis is placed not on advanced infrastructure design, but on building competence in operating system configuration, security hardening, network setup, and performance monitoring.
 
  
 -----------------------------------------------------------------------------------------------------------------------------------------
