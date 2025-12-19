@@ -89,6 +89,14 @@ The project emphasises **command-line proficiency**, **security hardening**, **p
 
 ---
 
+**references:**
+
+[1]“The Linux Command Handbook,” freeCodeCamp.org, Nov. 03, 2020. https://www.freecodecamp.org/news/the-linux-commands-handbook/
+[2]Sergiu, “How to Check Your IP Address in Ubuntu Linux [Beginner Tip],” It’s FOSS, Aug. 22, 2019. https://itsfoss.com/check-ip-address-ubuntu/
+[3]B. Boucheron, J. Camisso, and E. Abid, “How to Set Up a Firewall with UFW on Ubuntu | DigitalOcean,” www.digitalocean.com, Feb. 27, 2024. https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
+
+---
+
 **Name:** Aaron Ackom 
 **Module:** Operating Systems 
 **Institution:** roehampton university 
