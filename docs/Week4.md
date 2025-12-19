@@ -3,7 +3,7 @@
 
 I configured secure SSH access to the server using key-based authentication. An Ed25519 SSH key pair was generated on my local workstation, and the public key was installed on the server for a non-root administrative user. I verified that SSH access worked successfully using the key without requiring a password. After confirming key-based login, I hardened the SSH configuration by disabling password-based authentication and preventing direct root login in the SSH daemon configuration file. The SSH service was then restarted, and connectivity was retested to ensure secure remote access was functioning as intended.
 ##
-Steps to follow to complete task -
+Steps by step to follow to complete task -
 
 Deployed and accessed the server to perform initial system configuration and security hardening.
 
