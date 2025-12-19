@@ -229,7 +229,7 @@ New vulnerabilities published while server is unpatched
 
 Impact
 
-Remote code execution
+Remote code execution 
 
 Privilege escalation
 
